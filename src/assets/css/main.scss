@@ -1,0 +1,25 @@
+$color-1: #e4d6a7;
+$color-2: #e9b44c;
+$color-3: #9b2915;
+$color-4: #0f0905;
+$color-5: #50a2a7;
+$color-6: #060606;
+
+html,
+body {
+  background-color: $color-6;
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+}
+
+.full-screen {
+  height: 100vh;
+}
+
+.main {
+  overflow: hidden;
+  canvas {
+    background-color: $color-3;
+  }
+}

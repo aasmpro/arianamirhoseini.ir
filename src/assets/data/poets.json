@@ -1,0 +1,452 @@
+[
+  {
+    "id": 57,
+    "name": "ابن حسام خوسفی",
+    "fullUrl": "/ebnehesam",
+    "rootCatId": 1870
+  },
+  {
+    "id": 26,
+    "name": "ابوسعید ابوالخیر",
+    "fullUrl": "/abusaeed",
+    "rootCatId": 304
+  },
+  {
+    "id": 63,
+    "name": "ازرقی هروی",
+    "fullUrl": "/azraghi",
+    "rootCatId": 2034
+  },
+  {
+    "id": 52,
+    "name": "اسدی توسی",
+    "fullUrl": "/asadi",
+    "rootCatId": 1736
+  },
+  {
+    "id": 42,
+    "name": "اقبال لاهوری",
+    "fullUrl": "/iqbal",
+    "rootCatId": 1357
+  },
+  {
+    "id": 64,
+    "name": "امیر معزی",
+    "fullUrl": "/amir",
+    "rootCatId": 2038
+  },
+  {
+    "id": 34,
+    "name": "امیرخسرو دهلوی",
+    "fullUrl": "/khosro",
+    "rootCatId": 354
+  },
+  {
+    "id": 18,
+    "name": "انوری",
+    "fullUrl": "/anvari",
+    "rootCatId": 242
+  },
+  {
+    "id": 19,
+    "name": "اوحدی",
+    "fullUrl": "/ouhadi",
+    "rootCatId": 248
+  },
+  {
+    "id": 56,
+    "name": "باباافضل کاشانی",
+    "fullUrl": "/babaafzal",
+    "rootCatId": 1826
+  },
+  {
+    "id": 28,
+    "name": "باباطاهر",
+    "fullUrl": "/babataher",
+    "rootCatId": 315
+  },
+  {
+    "id": 43,
+    "name": "بیدل دهلوی",
+    "fullUrl": "/bidel",
+    "rootCatId": 1400
+  },
+  {
+    "id": 8,
+    "name": "پروین اعتصامی",
+    "fullUrl": "/parvin",
+    "rootCatId": 146
+  },
+  {
+    "id": 24,
+    "name": "جامی",
+    "fullUrl": "/jami",
+    "rootCatId": 285
+  },
+  {
+    "id": 2,
+    "name": "حافظ",
+    "fullUrl": "/hafez",
+    "rootCatId": 9
+  },
+  {
+    "id": 76,
+    "name": "حزین لاهیجی",
+    "fullUrl": "/hazin",
+    "rootCatId": 2169
+  },
+  {
+    "id": 65,
+    "name": "حکیم نزاری",
+    "fullUrl": "/nezari",
+    "rootCatId": 2045
+  },
+  {
+    "id": 16,
+    "name": "خاقانی",
+    "fullUrl": "/khaghani",
+    "rootCatId": 228
+  },
+  {
+    "id": 48,
+    "name": "خلیل‌الله خلیلی",
+    "fullUrl": "/khalili",
+    "rootCatId": 1687
+  },
+  {
+    "id": 20,
+    "name": "خواجوی کرمانی",
+    "fullUrl": "/khajoo",
+    "rootCatId": 257
+  },
+  {
+    "id": 72,
+    "name": "خواجه عبدالله انصاری",
+    "fullUrl": "/abdullah",
+    "rootCatId": 2088
+  },
+  {
+    "id": 3,
+    "name": "خیام",
+    "fullUrl": "/khayyam",
+    "rootCatId": 30
+  },
+  {
+    "id": 60,
+    "name": "رشیدالدین میبدی",
+    "fullUrl": "/meybodi",
+    "rootCatId": 1904
+  },
+  {
+    "id": 58,
+    "name": "رشیدالدین وطواط",
+    "fullUrl": "/vatvat",
+    "rootCatId": 1882
+  },
+  {
+    "id": 47,
+    "name": "رضی‌الدین آرتیمانی",
+    "fullUrl": "/razi",
+    "rootCatId": 1681
+  },
+  {
+    "id": 12,
+    "name": "رودکی",
+    "fullUrl": "/roodaki",
+    "rootCatId": 209
+  },
+  {
+    "id": 41,
+    "name": "رهی معیری",
+    "fullUrl": "/rahi",
+    "rootCatId": 1325
+  },
+  {
+    "id": 66,
+    "name": "سعدالدین وراوینی",
+    "fullUrl": "/varavini",
+    "rootCatId": 2048
+  },
+  {
+    "id": 7,
+    "name": "سعدی",
+    "fullUrl": "/saadi",
+    "rootCatId": 118
+  },
+  {
+    "id": 40,
+    "name": "سلمان ساوجی",
+    "fullUrl": "/salman",
+    "rootCatId": 1132
+  },
+  {
+    "id": 10,
+    "name": "سنایی",
+    "fullUrl": "/sanaee",
+    "rootCatId": 188
+  },
+  {
+    "id": 31,
+    "name": "سیف فرغانی",
+    "fullUrl": "/seyf",
+    "rootCatId": 334
+  },
+  {
+    "id": 55,
+    "name": "شاطرعباس صبوحی",
+    "fullUrl": "/shater",
+    "rootCatId": 1821
+  },
+  {
+    "id": 51,
+    "name": "شاه نعمت‌الله ولی",
+    "fullUrl": "/shahnematollah",
+    "rootCatId": 1722
+  },
+  {
+    "id": 35,
+    "name": "شهریار",
+    "fullUrl": "/shahriar",
+    "rootCatId": 372
+  },
+  {
+    "id": 30,
+    "name": "شیخ بهایی",
+    "fullUrl": "/bahaee",
+    "rootCatId": 326
+  },
+  {
+    "id": 23,
+    "name": "شیخ محمود شبستری",
+    "fullUrl": "/shabestari",
+    "rootCatId": 283
+  },
+  {
+    "id": 74,
+    "name": "صامت بروجردی",
+    "fullUrl": "/samet",
+    "rootCatId": 2098
+  },
+  {
+    "id": 22,
+    "name": "صائب تبریزی",
+    "fullUrl": "/saeb",
+    "rootCatId": 279
+  },
+  {
+    "id": 69,
+    "name": "ظهیر فاریابی",
+    "fullUrl": "/zahir",
+    "rootCatId": 2070
+  },
+  {
+    "id": 68,
+    "name": "عارف قزوینی",
+    "fullUrl": "/aref",
+    "rootCatId": 2067
+  },
+  {
+    "id": 70,
+    "name": "عبدالقادر گیلانی",
+    "fullUrl": "/gilani",
+    "rootCatId": 2079
+  },
+  {
+    "id": 37,
+    "name": "عبدالواسع جبلی",
+    "fullUrl": "/jabali",
+    "rootCatId": 688
+  },
+  {
+    "id": 33,
+    "name": "عبید زاکانی",
+    "fullUrl": "/obeyd",
+    "rootCatId": 344
+  },
+  {
+    "id": 21,
+    "name": "عراقی",
+    "fullUrl": "/eraghi",
+    "rootCatId": 259
+  },
+  {
+    "id": 46,
+    "name": "عرفی",
+    "fullUrl": "/orfi",
+    "rootCatId": 1678
+  },
+  {
+    "id": 9,
+    "name": "عطار",
+    "fullUrl": "/attar",
+    "rootCatId": 151
+  },
+  {
+    "id": 59,
+    "name": "عمان سامانی",
+    "fullUrl": "/omman",
+    "rootCatId": 1901
+  },
+  {
+    "id": 62,
+    "name": "عنصری",
+    "fullUrl": "/onsori",
+    "rootCatId": 2026
+  },
+  {
+    "id": 77,
+    "name": "غبار همدانی",
+    "fullUrl": "/ghobar",
+    "rootCatId": 2193
+  },
+  {
+    "id": 61,
+    "name": "فایز",
+    "fullUrl": "/fayez",
+    "rootCatId": 2020
+  },
+  {
+    "id": 38,
+    "name": "فخرالدین اسعد گرگانی",
+    "fullUrl": "/asad",
+    "rootCatId": 722
+  },
+  {
+    "id": 15,
+    "name": "فرخی سیستانی",
+    "fullUrl": "/farrokhi",
+    "rootCatId": 222
+  },
+  {
+    "id": 4,
+    "name": "فردوسی",
+    "fullUrl": "/ferdousi",
+    "rootCatId": 32
+  },
+  {
+    "id": 32,
+    "name": "فروغی بسطامی",
+    "fullUrl": "/forooghi",
+    "rootCatId": 339
+  },
+  {
+    "id": 39,
+    "name": "فیض کاشانی",
+    "fullUrl": "/feyz",
+    "rootCatId": 1125
+  },
+  {
+    "id": 44,
+    "name": "قاآنی",
+    "fullUrl": "/ghaani",
+    "rootCatId": 1508
+  },
+  {
+    "id": 71,
+    "name": "قدسی مشهدی",
+    "fullUrl": "/ghodsi",
+    "rootCatId": 2082
+  },
+  {
+    "id": 45,
+    "name": "کسایی",
+    "fullUrl": "/kesayee",
+    "rootCatId": 1674
+  },
+  {
+    "id": 73,
+    "name": "کمال خجندی",
+    "fullUrl": "/khojandi",
+    "rootCatId": 2091
+  },
+  {
+    "id": 67,
+    "name": "کمال‌الدین اسماعیل",
+    "fullUrl": "/kamal",
+    "rootCatId": 2059
+  },
+  {
+    "id": 29,
+    "name": "محتشم کاشانی",
+    "fullUrl": "/mohtasham",
+    "rootCatId": 317
+  },
+  {
+    "id": 17,
+    "name": "مسعود سعد سلمان",
+    "fullUrl": "/masood",
+    "rootCatId": 237
+  },
+  {
+    "id": 27,
+    "name": "ملک‌الشعرای بهار",
+    "fullUrl": "/bahar",
+    "rootCatId": 307
+  },
+  {
+    "id": 14,
+    "name": "منوچهری",
+    "fullUrl": "/manoochehri",
+    "rootCatId": 216
+  },
+  {
+    "id": 5,
+    "name": "مولوی",
+    "fullUrl": "/moulavi",
+    "rootCatId": 97
+  },
+  {
+    "id": 54,
+    "name": "مهستی گنجوی",
+    "fullUrl": "/mahsati",
+    "rootCatId": 1809
+  },
+  {
+    "id": 13,
+    "name": "ناصرخسرو",
+    "fullUrl": "/naserkhosro",
+    "rootCatId": 212
+  },
+  {
+    "id": 49,
+    "name": "نصرالله منشی",
+    "fullUrl": "/monshi",
+    "rootCatId": 1689
+  },
+  {
+    "id": 6,
+    "name": "نظامی",
+    "fullUrl": "/nezami",
+    "rootCatId": 110
+  },
+  {
+    "id": 11,
+    "name": "وحشی",
+    "fullUrl": "/vahshi",
+    "rootCatId": 197
+  },
+  {
+    "id": 25,
+    "name": "هاتف اصفهانی",
+    "fullUrl": "/hatef",
+    "rootCatId": 294
+  },
+  {
+    "id": 53,
+    "name": "هجویری",
+    "fullUrl": "/hojviri",
+    "rootCatId": 1750
+  },
+  {
+    "id": 50,
+    "name": "هلالی جغتایی",
+    "fullUrl": "/helali",
+    "rootCatId": 1710
+  },
+  {
+    "id": 75,
+    "name": "همام تبریزی",
+    "fullUrl": "/homam",
+    "rootCatId": 2114
+  }
+]

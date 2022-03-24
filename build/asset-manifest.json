@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0fb6af4.chunk.css",
+    "main.js": "/static/js/main.48144a5f.chunk.js",
+    "main.js.map": "/static/js/main.48144a5f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ed319c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ed319c8.js.map",
+    "static/js/2.9a58dd68.chunk.js": "/static/js/2.9a58dd68.chunk.js",
+    "static/js/2.9a58dd68.chunk.js.map": "/static/js/2.9a58dd68.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d0fb6af4.chunk.css.map": "/static/css/main.d0fb6af4.chunk.css.map",
+    "static/js/2.9a58dd68.chunk.js.LICENSE.txt": "/static/js/2.9a58dd68.chunk.js.LICENSE.txt",
+    "static/media/main.min.css": "/static/media/IranNastaliq.df6eacb9.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed319c8.js",
+    "static/js/2.9a58dd68.chunk.js",
+    "static/css/main.d0fb6af4.chunk.css",
+    "static/js/main.48144a5f.chunk.js"
+  ]
+}
